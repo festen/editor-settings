@@ -1,0 +1,67 @@
+<templateSet group="AngularCS">
+  <template name="controller.spec" value="fdescribe '$NAME$Controller', -&gt;&#10;&#10;    beforeEach module 'mc.$LOWERNAME$'&#10;&#10;    controller = undefined&#10;    $controller = undefined&#10;    $httpBackend = undefined&#10;    $rootScope = undefined&#10;&#10;    mocks = {}&#10;    &#10;    getController = -&gt; $controller '$NAME$Controller', mocks&#10;&#10;    beforeEach inject (_$controller_, _$httpBackend_, _$rootScope_) -&gt;&#10;        $controller = _$controller_&#10;        $httpBackend = _$httpBackend_&#10;        $rootScope = _$rootScope_&#10;        return undefined&#10;&#10;    beforeEach -&gt;&#10;        controller = getController()&#10;        return undefined&#10;&#10;    afterEach -&gt;&#10;        $httpBackend.verifyNoOutstandingRequest()&#10;&#10;    it 'exists', -&gt;&#10;        expect(controller).toBeDefined()&#10;&#10;    it 'has sensible defaults', -&gt;&#10;        $END$" description="karma controller test" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LOWERNAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="Bash" value="false" />
+      <option name="SQL" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="Twig" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
+      <option name="PHP" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+      <option name="CoffeeScript" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="directive.spec" value="fdescribe '$DIRECTIVE$ directive', -&gt;&#10;    beforeEach module '$PACKAGE$.$MODULE$'&#10;&#10;    element = undefined&#10;    scope = undefined&#10;    isoScope = undefined&#10;    $compile = undefined&#10;    $rootScope = undefined&#10;&#10;    beforeEach inject (_$compile_, _$rootScope_, $templateCache) -&gt;&#10;        $compile = _$compile_&#10;        $rootScope = _$rootScope_&#10;        $templateCache.put 'src/$PACKAGE$/$MODULE$/$DIRECTIVE$.directive.html', '&lt;span&gt;foo.bar&lt;/span&gt;'&#10;&#10;    init = -&gt;&#10;        scope = $rootScope.$new()&#10;        element = angular.element '&lt;$PACKAGE$-$DIRECTIVE$&gt;&lt;/$PACKAGE$-$DIRECTIVE$&gt;'&#10;        element = $compile(element)(scope)&#10;        scope.$digest()&#10;        isoScope = element.isolateScope()&#10;&#10;    it 'should be defined', -&gt;&#10;        init()&#10;        expect(element).toBeDefined&#10;        &#10;    $END$" description="karma directive test" toReformat="true" toShortenFQNames="true">
+    <variable name="DIRECTIVE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PACKAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODULE" expression="" defaultValue="mc" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="Bash" value="false" />
+      <option name="SQL" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="Twig" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
+      <option name="PHP" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+      <option name="CoffeeScript" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>
