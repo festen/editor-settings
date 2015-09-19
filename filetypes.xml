@@ -6,10 +6,10 @@
       <mapping pattern="File1" type="Native" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern="new-links-customer" type="PLAIN_TEXT" />
-      <mapping pattern="myapp_cake_model_default_categories" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncignore" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="myapp_cake_model_default_categories" type="PLAIN_TEXT" />
+      <mapping pattern="new-links-customer" type="PLAIN_TEXT" />
       <mapping ext="manifest" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
     </extensionMap>
