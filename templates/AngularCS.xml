@@ -9,7 +9,6 @@
       <option name="XML" value="false" />
       <option name="XML_TEXT" value="false" />
       <option name="JSON" value="false" />
-      <option name="Bash" value="false" />
       <option name="SQL" value="false" />
       <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
@@ -23,11 +22,11 @@
       <option name="JSX_HTML" value="false" />
       <option name="JS_STATEMENT" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
+      <option name="CoffeeScript" value="true" />
       <option name="PHP" value="false" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
-      <option name="CoffeeScript" value="true" />
+      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -42,7 +41,6 @@
       <option name="XML" value="false" />
       <option name="XML_TEXT" value="false" />
       <option name="JSON" value="false" />
-      <option name="Bash" value="false" />
       <option name="SQL" value="false" />
       <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
@@ -56,11 +54,11 @@
       <option name="JSX_HTML" value="false" />
       <option name="JS_STATEMENT" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="HAML" value="false" />
+      <option name="CoffeeScript" value="true" />
       <option name="PHP" value="false" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
-      <option name="CoffeeScript" value="true" />
+      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
