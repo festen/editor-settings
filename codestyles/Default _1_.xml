@@ -2,7 +2,6 @@
   <option name="RIGHT_MARGIN" value="100" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <TypeScriptCodeStyleSettings>
-    <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
     <option name="SPACE_AFTER_TYPE_COLON" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
