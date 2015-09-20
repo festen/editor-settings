@@ -10,7 +10,6 @@
       <option name="XML" value="false" />
       <option name="XML_TEXT" value="false" />
       <option name="JSON" value="false" />
-      <option name="Bash" value="false" />
       <option name="SQL" value="false" />
       <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
@@ -42,7 +41,6 @@
       <option name="XML" value="false" />
       <option name="XML_TEXT" value="false" />
       <option name="JSON" value="false" />
-      <option name="Bash" value="false" />
       <option name="SQL" value="false" />
       <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
@@ -75,7 +73,6 @@
       <option name="XML" value="false" />
       <option name="XML_TEXT" value="false" />
       <option name="JSON" value="false" />
-      <option name="Bash" value="false" />
       <option name="SQL" value="false" />
       <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
