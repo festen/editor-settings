@@ -1,17 +1,5 @@
 <application>
   <component name="FileTypeManager" version="14">
-    <ignoreFiles list="*.hprof;*.iml;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.idea;.project;.svn;.tox;.vagrant;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
-    <extensionMap>
-      <mapping pattern="" type="Native" />
-      <mapping pattern="File1" type="Native" />
-      <mapping ext="ctp" type="PHP" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern=".rsyncignore" type="PLAIN_TEXT" />
-      <mapping pattern="new-links-customer" type="PLAIN_TEXT" />
-      <mapping pattern="myapp_cake_model_default_categories" type="PLAIN_TEXT" />
-      <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping ext="manifest" type="PLAIN_TEXT" />
-      <mapping ext="script" type="PLAIN_TEXT" />
-    </extensionMap>
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
   </component>
 </application>
