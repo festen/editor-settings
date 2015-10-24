@@ -58,7 +58,7 @@
         <property name="options.splitter.main.proportions" value="0.3" />
         <property name="options.splitter.details.proportions" value="0.2" />
         <property name="last_opened_file_path" value="$USER_HOME$/Documents/Code" />
-        <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="TypeScriptCompiler">
