@@ -1,6 +1,0 @@
-<application>
-  <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="$usr-local-bin$/node" version="4.1.2" last-modified="1444097753000" />
-    <node-interpreter path="/usr/local/Cellar/node/4.1.2/bin/node" version="4.1.2" last-modified="1444097753000" />
-  </component>
-</application>
