@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="usr-local-bin" value="/usr/local/bin" />
+  </component>
+</application>
