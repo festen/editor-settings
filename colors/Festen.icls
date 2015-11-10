@@ -12,8 +12,6 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Menlo for Powerline" />
   <attributes>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
-    <option name="COFFEESCRIPT.LOCAL_VARIABLE" baseAttributes="JS.LOCAL_VARIABLE" />
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -72,9 +70,6 @@
     <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5e5e5e" />
@@ -116,29 +111,11 @@
     <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="HAML_CLASS" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="HAML_TAG" baseAttributes="TEXT" />
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JSP_SCRIPTING_BACKGROUND" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
     <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
     <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
@@ -147,8 +124,6 @@
     <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
     <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
-    <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
@@ -156,8 +131,5 @@
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
   </attributes>
 </scheme>
