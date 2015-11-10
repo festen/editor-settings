@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1712654c-c83c-4061-aad4-735a274db820" name="m-c.eu" url="http://ftp042407.bytenet.nl">
+        <fileTransfer host="ftp042407.bytenet.nl" port="21" password="dfe1dfebdfc0df9edf98dfcddfcddfcf" username="festen@ftp.m-c.eu">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5375d278-1b9c-444d-a863-4a1ab73170ba" name="webshop-dev" url="http://dev.webshop-mc.nl">
+        <fileTransfer host="ssh070171.bytenet.nl" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/users/wecbgftp/dev.webshop-mc.nl" accessType="SFTP" username="webshop-mc.nl" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6108ebb1-d674-419a-9418-2f4704f11e77" name="webshop" url="http://dev.webshop-mc.nl">
+        <fileTransfer host="ssh070171.bytenet.nl" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" username="webshop-mc.nl" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="86726c37-d14b-44cb-b046-2ac1047171b6" name="vagrant" url="http://webshop.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

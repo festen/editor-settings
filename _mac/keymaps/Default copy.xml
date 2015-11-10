@@ -1,0 +1,31 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="EditorToggleCase" />
+  <action id="EditorToggleInsertState">
+    <keyboard-shortcut first-keystroke="clear" />
+  </action>
+  <action id="GotoSuperMethod" />
+  <action id="PublishGroup.SyncLocalVsRemote">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
+  <action id="PublishGroup.UploadTo">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+</keymap>
