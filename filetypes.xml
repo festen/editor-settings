@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="attr-manage-send_types" type="PLAIN_TEXT" />
+      <mapping pattern="ICustomer" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
