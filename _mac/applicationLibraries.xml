@@ -1,0 +1,37 @@
+<application>
+  <component name="libraryTable">
+    <library name="angular2.dev" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.angularjs.org_2.0.0-alpha.44_angular2.dev.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.angularjs.org_2.0.0-alpha.44_angular2.dev.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="system" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.angularjs.org_tools_system.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.angularjs.org_tools_system.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="typescript" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.angularjs.org_tools_typescript.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.angularjs.org_tools_typescript.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
