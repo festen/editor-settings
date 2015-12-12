@@ -17,4 +17,9 @@
     <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <attributes>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
+  </attributes>
 </scheme>
