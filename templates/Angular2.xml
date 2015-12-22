@@ -1,0 +1,9 @@
+<templateSet group="Angular2">
+  <template name="comp" value="import {Component} from 'angular2/core';&#10;&#10;@Component({&#10;    selector: '$SELECTOR$',&#10;    template: `$END$`,&#10;    directives: []&#10;})&#10;export class $NAME$ { }&#10;" description="Angular component" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
