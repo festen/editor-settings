@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;.vagrant;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="dev" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
