@@ -1,29 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Gant.NewScript" is_action="true" action_type="-1" position="28">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Gant.NewScript" is_action="true" action_type="-1" position="28">
-      <path value="root" />
-      <path value="Commander View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Groovy.NewScript" is_action="true" action_type="-1" position="27">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Groovy.NewScript" is_action="true" action_type="-1" position="27">
-      <path value="root" />
-      <path value="Commander View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="GuiceActionGroup" is_group="true" action_type="-1" position="26">
       <path value="root" />
       <path value="Project View Popup Menu" />
@@ -103,24 +79,6 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NewTypeScriptConfigFile" is_action="true" action_type="-1" position="18">
-      <path value="root" />
-      <path value="Commander View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NewCfmlFile" is_action="true" action_type="-1" position="15">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NewCfmlFile" is_action="true" action_type="-1" position="15">
-      <path value="root" />
-      <path value="Commander View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NewStylesheetFile" is_action="true" action_type="-1" position="14">
       <path value="root" />
       <path value="Commander View Popup Menu" />
       <path value="New" />
