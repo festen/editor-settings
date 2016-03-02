@@ -2,7 +2,7 @@
   <component name="DBNavigator.Application.Settings">
     <enable-debug-mode value="false" />
     <enable-developer-mode value="false" />
-    <show-plugin-conflict-dialog value="false" />
+    <show-plugin-conflict-dialog value="true" />
   </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
@@ -67,12 +67,5 @@
       <option name="PATTERN" value="com.ibm.ws.*" />
       <option name="ENABLED" value="true" />
     </filter>
-  </component>
-  <component name="DependencyUISettings">
-    <option name="SCOPE_TYPE" value="file" />
-  </component>
-  <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.3.0" last-modified="1450291774000" />
-    <node-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node" version="5.3.0" last-modified="1450291774000" />
   </component>
 </application>

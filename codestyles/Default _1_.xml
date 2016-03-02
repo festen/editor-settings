@@ -1,5 +1,8 @@
 <code_scheme name="Default (1)">
   <option name="RIGHT_MARGIN" value="100" />
+  <MultiMarkdownCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MultiMarkdownCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
@@ -24,9 +27,6 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
-  <TypeScriptCodeStyleSettings>
-    <option name="SPACE_AFTER_TYPE_COLON" value="true" />
-  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
