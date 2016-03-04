@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Festen">
   <option name="RIGHT_MARGIN" value="100" />
   <DBN-PSQL>
     <case-options enabled="false">
@@ -24,7 +24,10 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACE_AFTER_TYPE_COLON" value="true" />
+  </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  </codeStyleSettings>
 </code_scheme>
