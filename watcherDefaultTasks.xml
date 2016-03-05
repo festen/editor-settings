@@ -32,10 +32,10 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$ProjectFileDir$/node_modules/.bin/node-sass" />
+      <option name="program" value="$ProjectFileDir$/web/node_modules/.bin/node-sass" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$ProjectFileDir$/app/style" />
+      <option name="workingDir" value="$ProjectFileDir$/web/app/style" />
       <envs>
         <env name="PATH" value="/usr/local/bin:/usr/bin:/usr/sbin:/bin:/sbin" />
       </envs>
