@@ -1,0 +1,44 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--source-map app.css.m--output-style compressed sass/app.sass app.css" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="Compiles .sass files into .css files" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="sass" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Sass" />
+      <option name="output" value="app.css" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$USER_HOME$/code/mc/node_modules/.bin/node-sass" />
+      <option name="scopeName" value="Styles" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$ProjectFileDir$/app/style" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--source-map app.css.map sass/app.sass app.css" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="Compiles .sass files into .css files" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="sass" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="node-sass" />
+      <option name="output" value="app.css" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$ProjectFileDir$/web/node_modules/.bin/node-sass" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$ProjectFileDir$/web/app/style" />
+      <envs>
+        <env name="PATH" value="/usr/local/bin:/usr/bin:/usr/sbin:/bin:/sbin" />
+      </envs>
+    </TaskOptions>
+  </component>
+</application>
