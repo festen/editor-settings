@@ -1,4 +1,5 @@
 <application>
   <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="/opt/homebrew-cask/Caskroom/intellij-idea/15.0.3/IntelliJ IDEA 15.app/Contents/plugins/Kotlin/kotlinc" />
   </component>
 </application>
