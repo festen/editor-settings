@@ -10,6 +10,7 @@
     <option name="SHOW_NAVIGATION_BAR" value="false" />
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="DISABLE_MNEMONICS" value="false" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
   </component>
 </application>

@@ -69,8 +69,8 @@
     <show-plugin-conflict-dialog value="true" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/Cellar/node/5.5.0/bin/node" version="(Does not exist)" last-modified="1466272260752" />
-    <node-interpreter path="/usr/local/Cellar/node/5.7.1/bin/node" version="(Does not exist)" last-modified="1466272260752" />
+    <node-interpreter path="/usr/local/Cellar/node/5.5.0/bin/node" version="(Does not exist)" last-modified="1465154435822" />
+    <node-interpreter path="/usr/local/Cellar/node/5.7.1/bin/node" version="(Does not exist)" last-modified="1465154435822" />
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
