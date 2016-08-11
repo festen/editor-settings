@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="App" />
-    <option name="defaultScopeName" value="App" />
+    <option name="customScope" value="File '.../web/app.conf.js - [mc-next]'" />
+    <option name="defaultScopeName" value="File '.../web/app.conf.js - [mc-next]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="App" />
+    <option name="SEARCH_SCOPE" value="File '.../web/app.conf.js - [mc-next]'" />
   </component>
 </application>
