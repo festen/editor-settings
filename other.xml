@@ -77,7 +77,7 @@
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/Cellar/node/5.5.0/bin/node" version="5.5.0" last-modified="1453338507000" />
-    <node-interpreter path="/usr/local/Cellar/node/5.7.1/bin/node" version="(Does not exist)" last-modified="1470987263095" />
+    <node-interpreter path="/usr/local/Cellar/node/5.7.1/bin/node" version="(Does not exist)" last-modified="1470989632207" />
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
