@@ -6,17 +6,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ng2component" value="import { Component, OnInit } from '@angular/core';&#10;&#10;@Component({&#10;    moduleId: module.id,&#10;    selector: '$SELECTOR$',&#10;    templateUrl: '$NAME$.component.html'&#10;})&#10;export class $COMPONENT_NAME$Component implements OnInit {&#10;    constructor() { }&#10;&#10;    ngOnInit() { }&#10;    $END$&#10;}" description="Angular2 component" toReformat="false" toShortenFQNames="true">
+  <template name="ng2component" value="import { Component, OnInit } from '@angular/core';&#10;&#10;@Component({&#10;    moduleId: __moduleName,&#10;    selector: '$SELECTOR$',&#10;    templateUrl: '$NAME$.component.html',&#10;})&#10;export class $COMPONENT_NAME$Component implements OnInit {&#10;    constructor() { }&#10;&#10;    ngOnInit() { }&#10;    $END$&#10;}" description="Angular2 component" toReformat="false" toShortenFQNames="true">
     <variable name="SELECTOR" expression="" defaultValue="&quot;selector&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <variable name="COMPONENT_NAME" expression="capitalize(String)" defaultValue="&quot;ComponentName&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="ng2component-root" value="import { Component } from '@angular/core';&#10;import { HTTP_PROVIDERS } from '@angular/http';&#10;import { Routes, ROUTER_DIRECTIVES, ROUTER_PROVIDERS } from '@angular/router';&#10;import 'rxjs/Rx'; // load the full rxjs&#10;&#10;@Component({&#10;    moduleId: module.id,&#10;    selector: '$SELECTOR$',&#10;    templateUrl: '$NAME$.component.html',&#10;    directives: [ROUTER_DIRECTIVES],&#10;    providers: [&#10;      HTTP_PROVIDERS,&#10;      ROUTER_PROVIDERS&#10;    ]&#10;})&#10;@Routes([&#10;    $END$&#10;])&#10;export class AppComponent {}" description="Angular2 root component" toReformat="false" toShortenFQNames="true">
-    <variable name="SELECTOR" expression="" defaultValue="&quot;selector&quot;" alwaysStopAt="true" />
-    <variable name="NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
