@@ -3,9 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '.../web/app.conf.js - [mc-next]'" />
     <option name="defaultScopeName" value="File '.../web/app.conf.js - [mc-next]'" />
-    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../web/app.conf.js - [mc-next]'" />
   </component>
 </application>
