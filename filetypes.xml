@@ -2,15 +2,19 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="util" type="PLAIN_TEXT" />
+      <mapping ext="json" type="JSON" />
+      <mapping pattern="*.d.json" type="JSON Schema" />
+      <mapping pattern="*.schema.json" type="JSON Schema" />
+      <removed_mapping ext="json" approved="true" type="JSON Schema" />
+      <mapping pattern="warm_cache" type="PLAIN_TEXT" />
       <mapping pattern=".err" type="PLAIN_TEXT" />
+      <mapping pattern="util" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="_object_display" type="PLAIN_TEXT" />
-      <mapping pattern="warm_cache" type="PLAIN_TEXT" />
+      <mapping ext="scenario" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="html-copy" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="scenario" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
