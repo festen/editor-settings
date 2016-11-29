@@ -24,14 +24,6 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-route-path" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-routes" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
           <option name="key" value="ng2-service" />
         </TemplateKey>
         <TemplateKey>
@@ -65,6 +57,18 @@
         <TemplateKey>
           <option name="groupName" value="Angular2" />
           <option name="key" value="ng2-routerLink" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular2" />
+          <option name="key" value="ng2-routing" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular2" />
+          <option name="key" value="ng2-module-root" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular2" />
+          <option name="key" value="ng2-module" />
         </TemplateKey>
       </list>
     </option>
