@@ -16,6 +16,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="link" type="PLAIN_TEXT" />
+      <mapping ext="form-controls" type="PLAIN_TEXT" />
       <mapping ext="html-copy" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="scenario" type="PLAIN_TEXT" />
