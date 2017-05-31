@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="start" type="Bash" />
+      <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping pattern="app/tmp" type="PLAIN_TEXT" />
       <mapping pattern="extensions" type="PLAIN_TEXT" />
