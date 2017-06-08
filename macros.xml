@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Enter distraction free mode">
+      <action id="ToggleFullScreen" />
+      <action id="ToggleDistractionFreeMode" />
+    </macro>
+  </component>
+</application>
