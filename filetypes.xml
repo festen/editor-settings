@@ -2,35 +2,32 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="start" type="Bash" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping pattern="app/tmp" type="PLAIN_TEXT" />
-      <mapping pattern="extensions" type="PLAIN_TEXT" />
+      <mapping pattern=".err" type="PLAIN_TEXT" />
       <mapping pattern="shared/data-table-column.ts" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="extensions" type="PLAIN_TEXT" />
       <mapping pattern="warm_cache" type="PLAIN_TEXT" />
-      <mapping pattern=".err" type="PLAIN_TEXT" />
       <mapping pattern="crud-repository" type="PLAIN_TEXT" />
+      <mapping pattern="_base" type="PLAIN_TEXT" />
+      <mapping pattern="element_body" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="util" type="PLAIN_TEXT" />
-      <mapping pattern="_base" type="PLAIN_TEXT" />
       <mapping pattern="crudMethodsFactory" type="PLAIN_TEXT" />
-      <mapping pattern="element_body" type="PLAIN_TEXT" />
       <mapping pattern="_object_display" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
-      <mapping ext="json-bak" type="PLAIN_TEXT" />
       <mapping ext="link" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="form-controls" type="PLAIN_TEXT" />
       <mapping ext="html-copy" type="PLAIN_TEXT" />
-      <mapping ext="scenario" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="scenario" type="PLAIN_TEXT" />
+      <mapping ext="json-bak" type="PLAIN_TEXT" />
       <mapping ext="meta4" type="XML" />
       <mapping ext="xlf" type="XML" />
-      <mapping pattern="nginx.conf" type="nginx file type" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
@@ -41,6 +38,8 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="nginx.conf" type="nginx file type" />
+      <mapping pattern="start" type="Bash" />
     </extensionMap>
   </component>
 </application>
