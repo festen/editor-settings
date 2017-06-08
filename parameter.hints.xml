@@ -1,5 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\compact(varname,_)" />
+        <removed pattern="" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
