@@ -17,5 +17,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="system" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_systemjs_0.20.14_system.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_systemjs_0.20.14_system.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
