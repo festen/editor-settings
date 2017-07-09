@@ -22,7 +22,8 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
     <option name="BLACKLIST_IMPORTS" value="rxjs,lodash" />
-    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="FALSE" />
+    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
+    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_WHITESPACES" value="true" />
@@ -47,7 +48,6 @@
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
-    <option name="IF_BRACE_FORCE" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
@@ -67,7 +67,6 @@
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
-    <option name="IF_BRACE_FORCE" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
