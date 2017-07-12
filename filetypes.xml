@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="start" type="Bash" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping pattern="app/tmp" type="PLAIN_TEXT" />
@@ -28,6 +27,7 @@
       <mapping ext="html-copy" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="scenario" type="PLAIN_TEXT" />
+      <mapping pattern="*.sql.disabled" type="SQL" />
       <mapping ext="meta4" type="XML" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
@@ -41,6 +41,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="nginx.conf" type="nginx file type" />
+      <mapping pattern="start" type="Bash" />
     </extensionMap>
   </component>
 </application>
