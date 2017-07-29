@@ -1,6 +1,14 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="describe(*,*)" />
+        <added pattern="before*" />
+        <added pattern="after*" />
+        <added pattern="it" />
+        <added pattern="xit" />
+        <added pattern="fit" />
+      </blacklist>
       <blacklist language="PHP">
         <added pattern="\compact(varname,_)" />
         <removed pattern="" />
