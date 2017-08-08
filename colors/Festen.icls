@@ -4,14 +4,17 @@
     <property name="created">2016-10-26T13:49:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2017-03-15T09:53:33</property>
+    <property name="modified">2017-07-22T20:49:35</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <colors>
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
+  </colors>
   <attributes>
     <option name="ERRORS_ATTRIBUTES">
       <value>
