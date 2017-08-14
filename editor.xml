@@ -5,6 +5,7 @@
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
   <component name="SqlEditorOptions">
