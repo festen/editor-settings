@@ -5,21 +5,14 @@
         <value>
           <set>
             <option value="!" />
-            <option value=".await" />
-            <option value=".const" />
-            <option value=".else" />
-            <option value=".if" />
+            <option value=".forin" />
             <option value=".itin" />
-            <option value=".let" />
-            <option value=".log" />
             <option value=".not" />
             <option value=".notnull" />
             <option value=".null" />
             <option value=".par" />
-            <option value=".return" />
             <option value=".throw" />
             <option value=".typeof" />
-            <option value=".undef" />
             <option value=".var" />
           </set>
         </value>

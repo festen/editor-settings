@@ -1,8 +1,13 @@
 <application>
   <component name="libraryTable">
     <library name="jasmine-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/code/mc3/api/tests" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jasmine_index.d.ts" />
+        <root url="file://$USER_HOME$/code/mc3/api/tests" />
       </CLASSES>
       <SOURCES />
     </library>
