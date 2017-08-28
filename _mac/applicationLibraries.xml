@@ -1,14 +1,7 @@
 <application>
   <component name="libraryTable">
     <library name="jasmine-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/code/mc3/api/tests" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/code/mc3/api/tests" />
-      </CLASSES>
+      <CLASSES />
       <SOURCES />
     </library>
     <library name="require" type="javaScript">
