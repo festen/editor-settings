@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="fixtures/" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
+      <mapping pattern="sprite-compoennt" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="guard" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
