@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="util" type="Bash" />
+      <mapping pattern="start" type="Bash" />
+      <mapping pattern="stop" type="Bash" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
     </extensionMap>
