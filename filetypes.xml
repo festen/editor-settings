@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="import-db" type="TypeScript" />
+      <mapping ext="docker" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
