@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="populate" type="Bash" />
       <mapping pattern="import" type="Bash" />
+      <mapping pattern="import-users" type="Bash" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
