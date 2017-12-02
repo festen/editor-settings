@@ -18,5 +18,6 @@
         </value>
       </disabled-postfix-templates>
     </option>
+    <option name="postfixTemplatesEnabled" value="false" />
   </component>
 </application>
