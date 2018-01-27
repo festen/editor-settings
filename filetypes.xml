@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="maybe" type="PLAIN_TEXT" />
       <mapping pattern="iso-date-to-year-month" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
