@@ -4,6 +4,7 @@
       <mapping pattern="maybe" type="PLAIN_TEXT" />
       <mapping pattern="iso-date-to-year-month" type="PLAIN_TEXT" />
       <mapping ext="disabled" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
