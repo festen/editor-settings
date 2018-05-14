@@ -53,6 +53,7 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+    <option name="BLACKLIST_IMPORTS" value="lodash" />
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_WHITESPACES" value="true" />
