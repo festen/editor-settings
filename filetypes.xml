@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webarchive" type="HTML" />
       <mapping pattern="generate-hash" type="PLAIN_TEXT" />
       <mapping pattern="get-instance" type="PLAIN_TEXT" />
       <mapping pattern="order-group" type="PLAIN_TEXT" />
