@@ -5,9 +5,10 @@
       <mapping pattern="generate-hash" type="PLAIN_TEXT" />
       <mapping pattern="get-instance" type="PLAIN_TEXT" />
       <mapping pattern="order-group" type="PLAIN_TEXT" />
-      <mapping pattern="checkout-arguments" type="PLAIN_TEXT" />
       <mapping pattern="reload-php-server" type="PLAIN_TEXT" />
+      <mapping pattern="checkout-arguments" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="ctp" type="PLAIN_TEXT" />
       <mapping ext="000z" type="PLAIN_TEXT" />
       <mapping ext="meta4" type="XML" />
     </extensionMap>
