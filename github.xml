@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="56afcb36-a40e-45db-80d9-d8e7a78a45ae" name="festen">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="AUTH_TYPE" value="TOKEN" />
+  </component>
+</application>
