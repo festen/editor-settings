@@ -7,6 +7,7 @@
     <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
   </component>
   <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="DISABLE_MNEMONICS" value="false" />
     <option name="EDITOR_TAB_LIMIT" value="8" />
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
