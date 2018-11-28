@@ -1,10 +1,10 @@
 <code_scheme name="Festen" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="RIGHT_MARGIN" value="100" />
   <option name="HTML_ATTRIBUTE_WRAP" value="4" />
   <option name="HTML_KEEP_BLANK_LINES" value="1" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_DO_NOT_ALIGN_CHILDREN_OF_MIN_LINES" value="20" />
-  <option name="SOFT_MARGINS" value="100" />
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
@@ -72,6 +72,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="0" />
+    <option name="SOFT_MARGINS" value="100" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
