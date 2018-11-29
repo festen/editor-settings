@@ -49,6 +49,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ConfigurationPickerComponent.should emit selected values on submit'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ConfigurationPickerComponent.should emit selected values on submit'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ConfigurationPickerComponent.should reflect chosen options in the select property'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ConfigurationPickerComponent.should reflect chosen options in the select property'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Configurator component'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -134,6 +150,22 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'⌃⌥R'</ShortCut>
           <Description>Run...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ConfigurationPickerComponent.should emit selected values on submit'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ConfigurationPickerComponent.should emit selected values on submit'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ConfigurationPickerComponent.should reflect chosen options in the select property'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ConfigurationPickerComponent.should reflect chosen options in the select property'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
