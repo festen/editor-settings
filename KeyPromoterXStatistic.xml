@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ConfigurationPickerComponent.should not show options that are excluded trough other options'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ConfigurationPickerComponent.should not show options that are excluded trough other options'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ConfigurationPickerComponent.should reflect chosen options in the select property'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
