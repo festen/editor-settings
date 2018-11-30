@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>19</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -71,6 +71,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ConfigurationPickerComponent.should reflect chosen options in the select property'</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ConfigurationSetComponent.should show the total cost of the set'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ConfigurationSetComponent.should show the total cost of the set'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Configurator component'">
@@ -190,7 +198,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
     </option>
