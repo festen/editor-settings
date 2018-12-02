@@ -17,6 +17,7 @@
       <mapping ext="000z" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="meta4" type="XML" />
+      <mapping pattern="tsconfig.test.json" type="tsconfig" />
       <removed_mapping ext="" approved="true" type="TypeScript" />
     </extensionMap>
   </component>
