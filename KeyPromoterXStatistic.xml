@@ -177,6 +177,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Rerun Failed Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Tests'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -193,11 +201,27 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Angular unit tests'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Angular unit tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CartComponent'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CartComponent'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -222,7 +246,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Tests'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'configurator.compone...'">
@@ -270,6 +294,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Configurator component.should render the options associated with the selected cylinder'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'⌘6'</ShortCut>
+          <Description>TODO</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
