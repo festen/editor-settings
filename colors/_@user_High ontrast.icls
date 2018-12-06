@@ -4,7 +4,7 @@
     <property name="created">2018-11-29T16:26:59</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-11-29T20:09:43</property>
+    <property name="modified">2018-12-07T11:35:50</property>
     <property name="originalScheme">High сontrast</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
@@ -496,9 +496,7 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="153811" />
-      </value>
+      <value />
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
