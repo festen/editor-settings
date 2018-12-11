@@ -1,0 +1,12 @@
+<templateSet group="Custom">
+  <template name="import Rx" value="import * as Rx from 'rxjs/operators'&#10;$END$" description="Star import Rx operators" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="import _" value="import * as _ from 'lodash/fp'&#10;$END$" description="Star import lodash/fp" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
