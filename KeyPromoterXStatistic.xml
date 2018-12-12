@@ -6,7 +6,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Component Declaration</Description>
-          <Count>81</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -118,7 +118,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ClaimsComponent'</Description>
-          <Count>5</Count>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ClaimsComponent.should create'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ClaimsComponent.should create'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ConfigurationPickerComponent'">
@@ -286,7 +294,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Tests'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'UserDetailsComponent'">
@@ -295,6 +303,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'UserDetailsComponent'</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UserDetailsComponent.should patch claims on value change'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserDetailsComponent.should patch claims on value change'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'UserListComponent'">
@@ -375,6 +391,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Tests'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'UserDetailsComponent'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'UserDetailsComponent'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'configurator.compone...'">
