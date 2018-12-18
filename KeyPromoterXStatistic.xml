@@ -369,6 +369,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'UserListComponent.should navigate to user details on click of row'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserListComponent.should navigate to user details on click of row'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'UserService.should observe the authenticated user'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
