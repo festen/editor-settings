@@ -1,0 +1,48 @@
+<templateSet group="Uikit-custom">
+  <template name="uk-list" value="&lt;ul class=&quot;uk-list&quot;&gt;&#10;    &lt;li&gt;$END$&lt;/li&gt;&#10;&lt;/ul&gt;&#10;" description="UIkit uk-list component" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="GSP" value="true" />
+      <option name="JSP" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="uk-button:button" value="&#10;&lt;button type=&quot;$buttontype$&quot; class=&quot;$class1$&quot;&gt;$content1$&lt;/button&gt;$END$&#10;" description="UIkit uk-button button" toReformat="false" toShortenFQNames="false">
+    <variable name="buttontype" expression="&quot;button&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="class1" expression="&quot;uk-button&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="content1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+      <option name="JSP" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="uk-button:a" value="&#10;&lt;a href=&quot;$href$&quot; class=&quot;$class1$&quot;&gt;$content1$&lt;/a&gt;$END$&#10;" description="UIkit uk-button anchor" toReformat="false" toShortenFQNames="false">
+    <variable name="href" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class1" expression="&quot;uk-button&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="content1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+      <option name="JSP" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="uk-slideshow-slidenav" value="&lt;div data-uk-slideshow=&quot;&quot;&gt;&#10;    &lt;div class=&quot;uk-slidenav-position&quot;&gt;&#10;        &lt;ul class=&quot;uk-slideshow&quot;&gt;&#10;            &lt;li&gt;&lt;img src=&quot;$imgsrc$&quot; alt=&quot;$alt$&quot;&gt;&lt;/li&gt;&#10;        &lt;/ul&gt;&#10;        &lt;ul&gt;&#10;            &lt;a href=&quot;&quot; class=&quot;uk-slidenav uk-slidenav-contrast uk-slidenav-previous&quot; data-uk-slideshow-item=&quot;previous&quot;&gt;&lt;/a&gt;&#10;            &lt;a href=&quot;&quot; class=&quot;uk-slidenav uk-slidenav-contrast uk-slidenav-next&quot; data-uk-slideshow-item=&quot;next&quot;&gt;&lt;/a&gt;&#10;        &lt;/ul&gt;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;&#10;" description="UIkit uk-slideshow with slidenav" toReformat="false" toShortenFQNames="false">
+    <variable name="$imgsrc$" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="$alt$" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+      <option name="JSP" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="uk-slideshow-slider" value="&#10;&lt;div data-uk-slideshow=&quot;&quot;&gt;&#10;    &lt;div class=&quot;uk-slidenav-position&quot; data-uk-slider=&quot;{center:true}&quot;&gt;&#10;        &lt;div class=&quot;uk-slider-container&quot;&gt;&#10;            &lt;ul class=&quot;uk-slider uk-grid-width-medium-1-4&quot;&gt;&#10;                &lt;li data-uk-slideshow-item=&quot;0&quot;&gt;&lt;img src=&quot;$thumbsrc$&quot; alt=&quot;$alt$&quot;&gt;&lt;/li&gt;&#10;            &lt;/ul&gt;&#10;            &lt;a href=&quot;&quot; class=&quot;uk-slidenav uk-slidenav-contrast uk-slidenav-previous&quot; data-uk-slider-item=&quot;previous&quot;&gt;&lt;/a&gt;&#10;            &lt;a href=&quot;&quot; class=&quot;uk-slidenav uk-slidenav-contrast uk-slidenav-next&quot; data-uk-slider-item=&quot;next&quot;&gt;&lt;/a&gt;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;&#10;    &lt;div class=&quot;uk-slidenav-position&quot;&gt;&#10;        &lt;ul class=&quot;uk-slideshow&quot;&gt;&#10;            &lt;li&gt;&lt;img src=&quot;$imgsrc$&quot; alt=&quot;$alt$&quot;&gt;&lt;/li&gt;&#10;        &lt;/ul&gt;&#10;        &lt;ul&gt;&#10;            &lt;a href=&quot;&quot; class=&quot;uk-slidenav uk-slidenav-contrast uk-slidenav-previous&quot; data-uk-slideshow-item=&quot;previous&quot;&gt;&lt;/a&gt;&#10;            &lt;a href=&quot;&quot; class=&quot;uk-slidenav uk-slidenav-contrast uk-slidenav-next&quot; data-uk-slideshow-item=&quot;next&quot;&gt;&lt;/a&gt;&#10;        &lt;/ul&gt;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;&#10;" description="UIkit Slideshow and slider components" toReformat="false" toShortenFQNames="false">
+    <variable name="$thumbsrc$" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="$alt$" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="$imgsrc$" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+      <option name="JSP" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
