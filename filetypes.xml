@@ -10,6 +10,7 @@
       <mapping pattern="check-invalid-items" type="PLAIN_TEXT" />
       <mapping pattern="check-valid-shipping-option" type="PLAIN_TEXT" />
       <mapping pattern="uk-form-checkbox" type="PLAIN_TEXT" />
+      <mapping pattern="house-pin-maps" type="PLAIN_TEXT" />
       <mapping pattern="create-cloud-function" type="PLAIN_TEXT" />
       <mapping pattern="order-group" type="PLAIN_TEXT" />
       <mapping pattern="checkout-arguments" type="PLAIN_TEXT" />
