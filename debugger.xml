@@ -1,10 +1,19 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="valueLookupDelay" value="150" />
+    </data-views>
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
     <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="remappedSourceLocationsMap">
+            <map />
+          </option>
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
