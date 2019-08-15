@@ -31,8 +31,8 @@
       <removed_mapping ext="php5" approved="true" type="PLAIN_TEXT" />
       <mapping ext="meta4" type="XML" />
       <mapping pattern="tsconfig.test.json" type="tsconfig" />
-      <removed_mapping ext="" approved="true" type="TypeScript" />
       <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="" approved="true" type="TypeScript" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="php4" approved="true" type="PLAIN_TEXT" />
