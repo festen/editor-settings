@@ -29,6 +29,13 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="JumpToLastWindow" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
   <action id="NewElement">
