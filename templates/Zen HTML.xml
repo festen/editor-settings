@@ -13,4 +13,7 @@
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="pic" value="&lt;picture&gt;&lt;/picture&gt;" description="&lt;picture&gt;&lt;/picture&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
