@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\VLC.Hexo.Web\Scripts\bucking-order\bucking-line-order-state.jsx'" />
-    <option name="defaultScopeName" value="File '...\VLC.Hexo.Web\Scripts\bucking-order\bucking-line-order-state.jsx'" />
-    <option name="SEARCH_SCOPE" value="File '...\VLC.Hexo.Web\Scripts\bucking-order\bucking-line-order-state.jsx'" />
+    <option name="customScope" value="Project 'VLC.Hexo.Web'" />
+    <option name="defaultScopeName" value="Project 'VLC.Hexo.Web'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'VLC.Hexo.Web'" />
   </component>
 </application>
