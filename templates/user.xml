@@ -74,4 +74,30 @@
       <option name="JSX_HTML" value="true" />
     </context>
   </template>
+  <template name="fprop" value="PropTypes.func$END$" description="Optional function PropType" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="rfprop" value="PropTypes.func.isRequired$END$" description="Required function PropType" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="aprop" value="PropTypes.arrayOf($1$)$END$" description="Optional array PropType" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="raprop" value="PropTypes.arrayOf($1$).isRequired$END$" description="Required array PropType" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
