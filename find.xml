@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'VLC.Hexo.DAL'" />
-    <option name="defaultScopeName" value="Project 'VLC.Hexo.DAL'" />
-    <option name="SEARCH_SCOPE" value="Project 'VLC.Hexo.DAL'" />
+    <option name="customScope" value="Project 'VLC.Hexo.Core'" />
+    <option name="defaultScopeName" value="Project 'VLC.Hexo.Core'" />
+    <option name="SEARCH_SCOPE" value="Project 'VLC.Hexo.Core'" />
   </component>
 </application>
