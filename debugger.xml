@@ -5,13 +5,13 @@
     </data-views>
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
     </general>
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="allowTypingDuringDebug" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
-          <option name="editAndContinueEnabled" value="false" />
           <option name="enableExternalSourceDebug" value="false" />
           <option name="remappedSourceLocationsMap">
             <map />
