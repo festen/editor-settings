@@ -12,6 +12,7 @@
         <configuration>
           <option name="allowTypingDuringDebug" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="editAndContinueEnabled" value="false" />
           <option name="enableExternalSourceDebug" value="false" />
           <option name="remappedSourceLocationsMap">
             <map />
