@@ -29,6 +29,9 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="Git.Fixup.To.Commit">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
