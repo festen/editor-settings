@@ -1,0 +1,18 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="fc0632ca-306c-35be-afcc-3f2ceeb3d8b9" baseUri="https://bitbucket.honeywell.com/" />
+    </instances>
+    <lookup>
+      <record scheme="https" hostname="bitbucket.honeywell.com" port="-1" path="/" uuid="fc0632ca-306c-35be-afcc-3f2ceeb3d8b9" />
+    </lookup>
+  </component>
+  <component name="UsageLog">
+    <event name="CreatePullRequest" place="GoToAction" timestamp="2020-01-22T10:26:12.158894200Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+  </component>
+</application>
