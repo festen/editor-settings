@@ -1,0 +1,31 @@
+<application>
+  <component name="localAnalysisScripts">
+    <option name="beans">
+      <list>
+        <LocalAnalysisScript>
+          <option name="name" value="" />
+          <option name="pathToSonarReport" value="" />
+          <option name="sourceCode" value="" />
+        </LocalAnalysisScript>
+        <LocalAnalysisScript>
+          <option name="name" value="Sonarqube scanner" />
+          <option name="pathToSonarReport" value="$WORKING_DIR/sonar-report.json" />
+          <option name="sourceCode" value="C:\Users\E400144\Downloads\sonar-scanner-cli-4.2.0.1873-windows\sonar-scanner-4.2.0.1873-windows\bin\sonar-scanner.bat -Dsonar.analysis.mode=preview -Dsonar.report.export.path=sonar-report.json" />
+        </LocalAnalysisScript>
+      </list>
+    </option>
+  </component>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="http://localhost:9000" />
+          <option name="name" value="Local server" />
+          <option name="organization" value="" />
+          <option name="passwordChanged" value="true" />
+          <option name="user" value="admin" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>
