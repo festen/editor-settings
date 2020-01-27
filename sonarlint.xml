@@ -9,6 +9,14 @@
           <password>dfcbdfcedfc7dfc3dfc4</password>
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.honeywell.com/" />
+          <option name="name" value="remote" />
+          <option name="login" value="E400144" />
+          <password>dfefdfc5dfc2dfcfdf98df9adf9bdf92df80df98df9adf99df9a</password>
+          <organizationKey>default-organization</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
       </list>
     </option>
   </component>
