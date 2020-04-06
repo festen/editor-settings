@@ -2,8 +2,8 @@
   <tool name="Get PubKey" description="Get the public key for strong named assemblies in C#" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\sn.exe" />
-      <option name="PARAMETERS" value="-Tp &quot;$FileDir$&quot;" />
-      <option name="WORKING_DIRECTORY" value="$Sourcepath$" />
+      <option name="PARAMETERS" value="-tp $SolutionDir$Files\StrongName\Entis.publickey" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
