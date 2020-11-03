@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="Project 'Honeywell.Enraf.Entis.Scanner.Augmentation.Service'" />
+    <option name="defaultScopeName" value="Project 'Honeywell.Enraf.Entis.Scanner.Augmentation.Service'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Project 'Honeywell.Enraf.Entis.Scanner.Augmentation.Service'" />
   </component>
 </application>
